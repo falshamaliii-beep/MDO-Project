@@ -1,6 +1,5 @@
 # MDO-Project
 
-
 ## Summary
 
 This project explores how Microsoft Defender for Office 365 detects, analyzes, and mitigates email‑based threats such as phishing, malware, and malicious URLs. It demonstrates how AI‑driven insights and automated investigation workflows can strengthen organizational security and reduce response time.
